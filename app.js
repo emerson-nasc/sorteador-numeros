@@ -69,3 +69,5 @@ function reiniciar() {
 //você observará que está sendo permitido colocar um valor no campo “Do número” maior que o valor informado no campo “Até o número”,
 //o que não é recomendável. O ideal é emitir um alerta para que o usuário reveja se inseriu os dados corretamente.
 
+//Colocado novo comentário para testar salvar repositório
+
